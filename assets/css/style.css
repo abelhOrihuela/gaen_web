@@ -1,5 +1,7 @@
 /* This css file is to over write bootstarp css
 ---------------------------------------------------------------------- */
+
+/*  #002a20   */
 /*
 Theme Name: Heera
 Theme URI: http://jeweltheme.com/
@@ -145,7 +147,7 @@ h1,h2,h3,h4,h5,h6 {
 
 /* Top Contact Section */
 .top-contact {
-	background-color: #0b330c;
+	background-color: #002a20;
 	font-size: .875em;
 	height: 55px;
 	line-height: 53px;
